@@ -81,6 +81,7 @@ sudo docker cp magma-controller-1:/var/opt/magma/bin/admin_operator.pfx /magma/c
 After this host machine,go to file
 C:\Windows\System32\drivers\etc
 and edit host file as follows:
+
 ip address> host.yourdomain.com yourdomain.com
 After this 
 you can access nms at
