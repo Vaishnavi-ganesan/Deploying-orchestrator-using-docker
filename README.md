@@ -82,7 +82,7 @@ After this host machine,go to file
 C:\Windows\System32\drivers\etc
 and edit host file as follows:
 
-ip address> host.yourdomain.com yourdomain.com
+<ip address> host.yourdomain.com yourdomain.com
 After this 
 you can access nms at
 https://host.yourdomain.com/nms
